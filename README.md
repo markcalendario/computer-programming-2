@@ -1,7 +1,7 @@
 
-# Computer Programming 1
+# Computer Programming 2
 
-A collection of all programming activities for the Computer Programming 1 course during my first semester as freshman at Polytechnic University of the Philippines, Manila
+A collection of all programming activities for the Computer Programming 2 course during my second semester as freshman at Polytechnic University of the Philippines, Manila
 
 ## Program List
 
